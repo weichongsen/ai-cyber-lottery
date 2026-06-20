@@ -1,0 +1,8 @@
+{
+  "name": "weichongsen/ai-cyber-lottery",
+  "description": "AI Cyber Lottery Prediction System",
+  "type": "project",
+  "require": {
+    "php": ">=8.0"
+  }
+}
