@@ -1,0 +1,33 @@
+# 密钥与配置（敏感信息绝不提交）
+config/db_supabase.php
+config/constant.php
+.env
+*.env
+
+# 临时文件与缓存
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 依赖与编译产物
+node_modules/
+vendor/
+*.wasm
+*.data
+php-wasm/
+build/
+
+# Cloudflare 本地开发
+.wrangler/
+dist/
+
+# IDE 配置
+.vscode/
+.idea/
+
+# 音频/字体（若需版本管理可删除此行，但文件较大建议外部上传）
+static/audio/*
+static/font/*
