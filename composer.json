@@ -3,6 +3,8 @@
   "description": "AI Cyber Lottery Prediction System",
   "type": "project",
   "require": {
-    "php": ">=8.0"
+    "php": ">=8.0",
+    "ext-pdo_pgsql": "*",
+    "ext-pgsql": "*"
   }
 }
