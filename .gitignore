@@ -1,6 +1,4 @@
-# 密钥与配置（敏感信息绝不提交）
-config/db_supabase.php
-config/constant.php
+# 密钥（敏感信息绝不提交）
 .env
 *.env
 
