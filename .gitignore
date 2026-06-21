@@ -29,3 +29,7 @@ dist/
 # 音频/字体（若需版本管理可删除此行，但文件较大建议外部上传）
 static/audio/*
 static/font/*
+
+.dev.vars*
+!.dev.vars.example
+!.env.example
